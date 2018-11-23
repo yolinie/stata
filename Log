@@ -1,0 +1,4 @@
+cap log close     //关闭当前LOG文件
+set more off
+cls  // Clear Results window
+log using "E:\research\2IPO\2实证结果\1IPO_MXR_relation\1RelationInfo\result\log\TtestCoefficient_10DayEst.log",text replace //记录变量构造过程
